@@ -23,7 +23,7 @@ It reads advocate information from an Excel file, navigates to the notary servic
 Workflow:  
 ![Notary_Services Workflow](notary-services-workflow.png)
 Example:  
-![Notary_Services Log](notary-services-log.png)
+![Notary_Services Log](notary_services_excel_output.png)
 
 ---
 
@@ -34,6 +34,8 @@ Example:
 3. Import NotaryServices_Main.json (for A360).
 4. Place the input file AP-ADVOCATES.xlsx in the correct path (or update the file path inside the bot).
 5. Run the bot → check the generated execution.log and form submission results.
+
+---
 
 ## 🗂️ Repository Structure
 notary-services-bot/
@@ -50,6 +52,7 @@ notary-services-bot/
 
 |- notary_services_log.png                         # Output screenshot
 
+---
 
 ## 📖 Metadata
 
