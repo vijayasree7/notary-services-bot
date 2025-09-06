@@ -21,7 +21,7 @@ It reads advocate information from an Excel file, navigates to the notary servic
 ## 🖼️ Screenshot
 
 Workflow:  
-![Notary_Services Workflow](notary-services-workflow.png)
+![Notary_Services Workflow](notary_services_workflow.png)
 Example:  
 ![Notary_Services Log](notary_services_excel_output.png)
 
